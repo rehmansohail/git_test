@@ -1,3 +1,3 @@
 # git_test
-supboiasdasd
+starting the odin project
 "Hello Odin"
